@@ -1,4 +1,4 @@
-# 📩 SMS/Email Spam Classifier
+# SMS/Email Spam Classifier
 
 A machine learning–powered web application that detects whether a message is **Spam** or **Not Spam (Ham)**.  
 The system uses Natural Language Processing (NLP) techniques and a Naive Bayes classifier to make real-time predictions through an interactive Streamlit interface.
